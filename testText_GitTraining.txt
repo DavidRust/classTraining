@@ -1,0 +1,4 @@
+﻿GitHub Training File
+
+This .txt file is just a placeholder for training purposes.
+
