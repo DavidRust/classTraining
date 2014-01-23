@@ -1,4 +1,7 @@
 ﻿This is a new text file.
 
 all that is gold does not glitter
-Not all who wanter are lost.
+Not all who wander are lost.
+
+trailing line 1
+trailing line 2

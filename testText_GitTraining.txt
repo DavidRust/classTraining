@@ -15,6 +15,4 @@ Line 6
 Line 7
 Line 8
 
-A line at the very end of the file.
-
-And then another line at the very end of the file.
+Must go at the end of the file.
