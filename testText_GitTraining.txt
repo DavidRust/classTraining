@@ -4,6 +4,8 @@ This .txt file is just a placeholder for training purposes.
 
 Line 1
 Line 2
-	Line 2.5
+	Line insert 2.5
 Line 3
+	Line insert 3.5
 Line 4
+Line 5
